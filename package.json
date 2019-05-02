@@ -1,4 +1,6 @@
 {
+  "name": "jquery.timer",
+  "main": "jquery.timer.js",
   "scripts": {
     "test": "node tests/run.js"
   }
